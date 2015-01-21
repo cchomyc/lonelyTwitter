@@ -4,6 +4,6 @@
     <string name="hello">A person said:</string>
     <string name="app_name">LonelyTwitter</string>
     <string name="save">Save</string>
-    <string name="clear">Clear</string>
+    <string name="clear">Clear (aka Do Nothing)</string>
     
 </resources>
